@@ -71,5 +71,5 @@ To allow reuse of the trained model without retraining it each time, the model w
 The model is integrated with a tool to predict the sentiment of real-time tweets fetched from the **X API**. Users can input any tweet or real-time tweet data, and the model will classify it as either **positive** or **negative**.
 
 ### 🚀 **Try It Out**  
-👉 [**Click here to try the real-time prediction tool**](#https://x.com/sudi0ne/status/1716739204011405583) <!-- Replace # with the actual link -->
+👉 [**Click here to try the real-time prediction tool**](https://x.com/sudi0ne/status/1716739204011405583) <!-- Replace # with the actual link -->
 
